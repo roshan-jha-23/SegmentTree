@@ -1,1 +1,6 @@
-https://codeforces.com/blog/entry/71925 [link for practise]
+# My Project
+
+## Useful Links
+
+- [Codeforces Blog Entry](https://codeforces.com/blog/entry/71925)
+
